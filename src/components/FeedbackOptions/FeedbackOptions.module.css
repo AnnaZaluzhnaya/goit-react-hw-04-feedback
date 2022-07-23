@@ -1,0 +1,21 @@
+.btnContainer {
+  justify-content: baseline;
+  padding: 140px;
+}
+
+.btn {
+  margin-right: 10px;
+  border: 2px solid blueviolet;
+  background-color: whitesmoke;
+  color: blueviolet;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background-color: blueviolet;
+  color: white;
+  transition: 1s;
+  transform: scale(0.9);
+}

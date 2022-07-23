@@ -1,0 +1,7 @@
+.message {
+  color: red;
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  text-shadow: 1px 3px 1px rebeccapurple;
+}
